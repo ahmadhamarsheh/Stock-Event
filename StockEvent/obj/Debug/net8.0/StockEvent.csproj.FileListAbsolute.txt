@@ -1,0 +1,14 @@
+D:\Users\Ahmad\C#\FullStack\C#\StockEvent\StockEvent\bin\Debug\net8.0\StockEvent.exe
+D:\Users\Ahmad\C#\FullStack\C#\StockEvent\StockEvent\bin\Debug\net8.0\StockEvent.deps.json
+D:\Users\Ahmad\C#\FullStack\C#\StockEvent\StockEvent\bin\Debug\net8.0\StockEvent.runtimeconfig.json
+D:\Users\Ahmad\C#\FullStack\C#\StockEvent\StockEvent\bin\Debug\net8.0\StockEvent.dll
+D:\Users\Ahmad\C#\FullStack\C#\StockEvent\StockEvent\bin\Debug\net8.0\StockEvent.pdb
+D:\Users\Ahmad\C#\FullStack\C#\StockEvent\StockEvent\obj\Debug\net8.0\StockEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ahmad\C#\FullStack\C#\StockEvent\StockEvent\obj\Debug\net8.0\StockEvent.AssemblyInfoInputs.cache
+D:\Users\Ahmad\C#\FullStack\C#\StockEvent\StockEvent\obj\Debug\net8.0\StockEvent.AssemblyInfo.cs
+D:\Users\Ahmad\C#\FullStack\C#\StockEvent\StockEvent\obj\Debug\net8.0\StockEvent.csproj.CoreCompileInputs.cache
+D:\Users\Ahmad\C#\FullStack\C#\StockEvent\StockEvent\obj\Debug\net8.0\StockEvent.dll
+D:\Users\Ahmad\C#\FullStack\C#\StockEvent\StockEvent\obj\Debug\net8.0\refint\StockEvent.dll
+D:\Users\Ahmad\C#\FullStack\C#\StockEvent\StockEvent\obj\Debug\net8.0\StockEvent.pdb
+D:\Users\Ahmad\C#\FullStack\C#\StockEvent\StockEvent\obj\Debug\net8.0\StockEvent.genruntimeconfig.cache
+D:\Users\Ahmad\C#\FullStack\C#\StockEvent\StockEvent\obj\Debug\net8.0\ref\StockEvent.dll
